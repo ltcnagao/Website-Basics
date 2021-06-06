@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ltcnagao/Website-Basics/static/css/main.53e32735.chunk.css",
+    "main.js": "/ltcnagao/Website-Basics/static/js/main.831a61c6.chunk.js",
+    "main.js.map": "/ltcnagao/Website-Basics/static/js/main.831a61c6.chunk.js.map",
+    "runtime-main.js": "/ltcnagao/Website-Basics/static/js/runtime-main.376d1bdb.js",
+    "runtime-main.js.map": "/ltcnagao/Website-Basics/static/js/runtime-main.376d1bdb.js.map",
+    "static/js/2.67ca3b42.chunk.js": "/ltcnagao/Website-Basics/static/js/2.67ca3b42.chunk.js",
+    "static/js/2.67ca3b42.chunk.js.map": "/ltcnagao/Website-Basics/static/js/2.67ca3b42.chunk.js.map",
+    "static/js/3.b153d128.chunk.js": "/ltcnagao/Website-Basics/static/js/3.b153d128.chunk.js",
+    "static/js/3.b153d128.chunk.js.map": "/ltcnagao/Website-Basics/static/js/3.b153d128.chunk.js.map",
+    "index.html": "/ltcnagao/Website-Basics/index.html",
+    "static/css/main.53e32735.chunk.css.map": "/ltcnagao/Website-Basics/static/css/main.53e32735.chunk.css.map",
+    "static/js/2.67ca3b42.chunk.js.LICENSE.txt": "/ltcnagao/Website-Basics/static/js/2.67ca3b42.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.376d1bdb.js",
+    "static/js/2.67ca3b42.chunk.js",
+    "static/css/main.53e32735.chunk.css",
+    "static/js/main.831a61c6.chunk.js"
+  ]
+}
