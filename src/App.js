@@ -31,10 +31,14 @@ class App extends Component {
     const filteredMonsters = monsters.filter(monster => 
       monster.name.toLowerCase().includes(searchField.toLowerCase())
     );
+
     return (
       <div className='App'>
         <h1> Monsters Contact </h1>
-        <SearchBox onSearchChange={this.onSearchChange}/>
+        <SearchBox 
+          placeholder='search monsters'
+          handleChange={this.handleChange}
+        />
         <CardList monsters={filteredMonsters} />
       </div>
     );
